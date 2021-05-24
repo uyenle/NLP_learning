@@ -1,5 +1,3 @@
-# NLP-projects
-
 # Tools/ Libraries
 Dask
 NumPy
