@@ -19,5 +19,5 @@ exploratory-data-analysis
 nlp
 Python
 clustering
-webscraping
-bionlp
+web-scraping
+bio-nlp
