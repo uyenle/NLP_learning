@@ -1,16 +1,17 @@
-#Learning basic und fundamental N
+# Learning basic und fundamental NLP**
+
 
 # Tools/ Libraries
 Dask
-NumPy
-SciPy
-AWS
-Seaborn
-Spark
-Matplotlib
-pandas
-spaCY
-Docker
+/NumPy
+/SciPy
+/AWS
+/Seaborn
+/Spark
+/Matplotlib
+/pandas
+/spaCY
+/Docker
 
 
 # Technical Skills
