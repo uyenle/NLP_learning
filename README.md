@@ -16,12 +16,12 @@ Dask
 
 # Technical Skills
 statistical-analysis
-containerization
-big-data
-exploratory-data-analysis
-nlp
-Python
-clustering
-web-scraping
-bio-nlp
+/containerization
+/big-data
+/exploratory-data-analysis
+/nlp
+/Python
+/clustering
+/web-scraping
+/bio-nlp
 
