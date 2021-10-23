@@ -5,9 +5,7 @@
 Dask
 /NumPy
 /SciPy
-/AWS
 /Seaborn
-/Spark
 /Matplotlib
 /pandas
 /spaCY
